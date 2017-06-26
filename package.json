@@ -1,0 +1,23 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "This is a project for FCC back-end challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/524119574/file-meta-data-microservice.git"
+  },
+  "author": "Leonard Ge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/524119574/file-meta-data-microservice/issues"
+  },
+  "homepage": "https://github.com/524119574/file-meta-data-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
+  }
+}
